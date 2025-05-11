@@ -66,9 +66,50 @@ SalesMate digitizes sales visit logs, enabling sales reps to check in with selfi
 ### 🔧 Flutter Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/salesmate-flutter.git
+git clone https://github.com/elechacked/salesmate.git
 cd salesmate-flutter
 flutter pub get
 flutter run
 
 
+🧪 Testing
+Widget tests: Coming soon
+
+Integration tests: Planned for critical modules
+
+🧾 Future Roadmap
+ Employee offline mode & sync queue
+
+ Company-wide insights & heatmaps
+
+ Export to PDF reports
+
+ Admin alerts & reminders
+
+ Support ticket management
+
+ Flutter Web compatibility
+
+🤝 Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
+
+📜 License
+This project is licensed under the MIT License.
+
+💼 Built By
+Aryan – B.Tech Student at KCC Institute of Technology and Management
+Passionate Flutter Developer | App Architect | Backend Integrator
+
+📸 Screenshots (Coming Soon)
+Want to help design beautiful screenshots or a logo? Open a PR!
+
+📬 Contact
+For issues, reach out via GitHub issues or email [elec.hacked@gmail.com]
+
+yaml
+Copy
+Edit
+
+---
+
+Would you like a logo, banner, or contribution guidelines added to this README as well?
