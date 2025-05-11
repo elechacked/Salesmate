@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "67822766397",
+    "project_id": "visitrak0",
+    "storage_bucket": "visitrak0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67822766397:android:b014e1aad3223633bcdd54",
+        "android_client_info": {
+          "package_name": "com.pska.salesmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHYiSu0zVV8IggFy9yMgpeWBr70yG5Zqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67822766397:android:23de3e476a53ef7fbcdd54",
+        "android_client_info": {
+          "package_name": "com.visitrak.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHYiSu0zVV8IggFy9yMgpeWBr70yG5Zqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
