@@ -50,20 +50,12 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBHYiSu0zVV8IggFy9yMgpeWBr70yG5Zqw',
-    appId: '1:67822766397:android:b014e1aad3223633bcdd54',
-    messagingSenderId: '67822766397',
-    projectId: 'visitrak0',
-    storageBucket: 'visitrak0.firebasestorage.app',
+// TODO: ADD THE FIREBASE OPTIONS FOR ANDROID
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAXAGr9fcNRNJG_7IfCAnz-f9zBciuuJKI',
-    appId: '1:67822766397:ios:ad0e3aa0d204311fbcdd54',
-    messagingSenderId: '67822766397',
-    projectId: 'visitrak0',
-    storageBucket: 'visitrak0.firebasestorage.app',
-    iosBundleId: 'com.pska.salesmate',
+// TODO: ADD THE FIREBASE OPTIONS FOR ANDROID
+
   );
 
 }
