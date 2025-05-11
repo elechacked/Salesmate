@@ -70,6 +70,7 @@ git clone https://github.com/elechacked/salesmate.git
 cd salesmate-flutter
 flutter pub get
 flutter run
+```
 
 
 🧪 Testing
